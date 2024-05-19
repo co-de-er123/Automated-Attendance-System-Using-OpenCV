@@ -22,7 +22,8 @@ MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![Screenshot (10)](https://github.com/co-de-er123/Automated-Attendance-System-Using-OpenCV/assets/100010797/dd9c6670-9761-40a7-bd23-506356ea3eb9)
+)
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
